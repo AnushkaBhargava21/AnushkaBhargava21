@@ -1,6 +1,6 @@
 <h1 align="center">Hello World👋, I'm Anushka Bhargava</h1>
 <h3 align="center">A keen learner and a programming enthusiast</h3>
-<img align="right" width="400" alt="coding" src="C:\Users\Dell\Desktop\anushkavid_files">
+
 
 - 🌱 I’m currently learning **Python, Advanced Java**
 
